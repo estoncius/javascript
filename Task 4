@@ -1,0 +1,6 @@
+var x = [1, 4, 3, 2]
+var i = []
+
+i.push(x + ',' + x);
+
+console.log(i)
